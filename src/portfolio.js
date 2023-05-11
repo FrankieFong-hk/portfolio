@@ -9,11 +9,11 @@ const about = {
   name: 'Frankie Fong',
   role: 'Web Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    "Hello there! My name is Frankie and I am a web developer with a passion for creating exceptional digital experiences. I specialize in designing and developing custom websites and web applications that are not only visually stunning but also highly functional and user-friendly.I have one years of experience in the industry and have worked with clients from a wide variety of industries, including [List of Industries]. My expertise lies in HTML, CSS, JavaScript, and various web development frameworks like React, Angular, and Node.js.My goal as a web developer is to create websites that not only meet my clients' needs but also exceed their expectations. I believe that the key to success in web development is collaboration, and I always strive to work closely with my clients to ensure that their vision is fully realized. If you're looking for a web developer who is passionate about creating beautiful and functional websites, then look no further. I would love to hear about your project and discuss how I can help bring your vision to life.",
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    github: 'https://github.com/FrankieFong-hk',
   },
 }
 
