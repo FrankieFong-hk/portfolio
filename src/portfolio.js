@@ -2,6 +2,8 @@ import CrwnClothingUrl from './assets/crwn-clothing.png';
 import MonsterRolodexUrl from './assets/monster-rolodex.png';
 import PhotowallUrl from './assets/photowall.png';
 import ShoppingSystemUrl from './assets/shopping-system.png';
+import CV from './assets/CV.pdf';
+
 
 
 
