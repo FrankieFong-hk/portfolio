@@ -6,6 +6,12 @@
   transition: transform 0.2s linear;
 }
 
+.project_img {
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .project:hover {
   transform: translateY(-7px);
 }
@@ -26,6 +32,8 @@
   font-weight: 500;
   font-size: 0.8rem;
   color: var(--clr-fg-alt);
+  border: 1px solid;
+  padding: 0.3rem;
 }
 
 .project .link--icon {

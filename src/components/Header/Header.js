@@ -13,7 +13,7 @@ const Header = () => {
             {title}
           </a>
         ) : (
-          title
+          title.toUpperCase()
         )}
       </h3>
       <Navbar />
