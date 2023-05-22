@@ -19,7 +19,7 @@ const about = {
   role: 'Web Developer',
   description:
     "I am a web developer with a passion for creating exceptional digital experiences. I specialize in developing custom websites and web applications that are not only visually stunning but also highly functional, user-friendly, and responsive. I have one year of experience in the industry and have worked with clients from international top-tier luxury brands (Dior, Givenchy, Biotherm, and Clarins). My expertise lies in HTML, CSS, and JavaScript, as well as various web development frameworks like React. For backend development, I have expertise in PHP and MySQL. This website showcases some of the self-study projects I've worked on over the years. Feel free to take a look!",
-  resume: 'https://frankiefong-hk.github.io/portfolio/static/media/CV.12d6d993.pdf',
+  resume: 'https://frankiefong-hk.github.io/portfolio/static/media/CV(Frankie Fong).9bd2d586.pdf',
   social: {
     linkedin: '',
     github: 'https://github.com/FrankieFong-hk',
